@@ -1,1 +1,1 @@
-putu 'Hello!'
+putu 'こんにちは!'
